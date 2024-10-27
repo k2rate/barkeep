@@ -1,0 +1,8 @@
+type: executable
+name: test
+
+load-context.!standalone:
+  enabled: false
+
+deps:
+  - lib

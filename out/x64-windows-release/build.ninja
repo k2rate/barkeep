@@ -1,0 +1,190 @@
+builddir = C:\Users\Kenny\re-projects\barkeep\out\x64-windows-release
+re_target_artifact_directory_git_x64-windows-release_ulib-project_ulib = build/git.x64-windows-release.ulib-project.ulib
+re_target_object_directory_git_x64-windows-release_ulib-project = obj/git.x64-windows-release.ulib-project
+re_target_object_directory_git_x64-windows-release_ulib-fmt-project_ulib-fmt = obj/git.x64-windows-release.ulib-fmt-project.ulib-fmt
+re_target_object_directory_git_x64-windows-release_ulib-project_ulib = obj/git.x64-windows-release.ulib-project.ulib
+re_target_artifact_directory_barkeep_lib = build/barkeep.lib
+re_target_object_directory_git_x64-windows-release_fmt = obj/git.x64-windows-release.fmt
+re_target_artifact_directory_git_x64-windows-release_ulib-project = build/git.x64-windows-release.ulib-project
+re_target_artifact_directory_git_x64-windows-release_fmt = build/git.x64-windows-release.fmt
+re_target_artifact_directory_git_x64-windows-release_ulib-fmt-project_ulib-fmt = build/git.x64-windows-release.ulib-fmt-project.ulib-fmt
+re_target_artifact_directory_git_x64-windows-release_ulib-fmt-project = build/git.x64-windows-release.ulib-fmt-project
+re_target_object_directory_git_x64-windows-release_ulib-fmt-project = obj/git.x64-windows-release.ulib-fmt-project
+re_target_object_directory_barkeep_lib = obj/barkeep.lib
+re_target_artifact_directory_barkeep_test = build/barkeep.test
+re_target_object_directory_barkeep_test = obj/barkeep.test
+cxx_path_git_x64-windows-release_ulib-project_ulib = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib
+cxx_path_git_x64-windows-release_ulib-project = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1
+cxx_config_path_git_x64-windows-release_ulib-project_ulib = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib\re.yml
+cxx_config_path_git_x64-windows-release_ulib-fmt-project_ulib-fmt = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt\re.yml
+cxx_artifact_git_x64-windows-release_ulib-project_ulib = $builddir/$re_target_artifact_directory_git_x64-windows-release_ulib-project_ulib/git.x64-windows-release.ulib-project.ulib.lib
+cxx_path_git_x64-windows-release_fmt = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1
+cxx_config_path_barkeep_lib = C:\Users\Kenny\re-projects\barkeep\barkeep\re.yml
+cxx_config_path_git_x64-windows-release_ulib-project = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\re.yml
+cxx_config_path_git_x64-windows-release_fmt = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1\re.yml
+cxx_artifact_git_x64-windows-release_fmt = $builddir/$re_target_artifact_directory_git_x64-windows-release_fmt/git.x64-windows-release.fmt.lib
+cxx_config_path_git_x64-windows-release_ulib-fmt-project = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\re.yml
+cxx_path_git_x64-windows-release_ulib-fmt-project_ulib-fmt = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt
+cxx_path_git_x64-windows-release_ulib-fmt-project = C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5
+cxx_path_barkeep_lib = C:\Users\Kenny\re-projects\barkeep\barkeep
+cxx_path_barkeep_test = C:\Users\Kenny\re-projects\barkeep\test
+cxx_config_path_barkeep_test = C:\Users\Kenny\re-projects\barkeep\test\re.yml
+cxx_artifact_barkeep_lib = 
+cxx_artifact_git_x64-windows-release_ulib-fmt-project = 
+cxx_artifact_git_x64-windows-release_ulib-fmt-project_ulib-fmt = 
+cxx_artifact_git_x64-windows-release_ulib-project = 
+cxx_artifact_barkeep_test = $builddir/$re_target_artifact_directory_barkeep_test/barkeep.test.exe
+
+re_tool_cxx_compiler_git_x64-windows-release_ulib-project_ulib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_git_x64-windows-release_ulib-project_ulib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_git_x64-windows-release_ulib-project_ulib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_git_x64-windows-release_ulib-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_git_x64-windows-release_ulib-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_git_x64-windows-release_ulib-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_git_x64-windows-release_fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_git_x64-windows-release_fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_git_x64-windows-release_fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_git_x64-windows-release_ulib-fmt-project_ulib-fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_git_x64-windows-release_ulib-fmt-project_ulib-fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_git_x64-windows-release_ulib-fmt-project_ulib-fmt = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_git_x64-windows-release_ulib-fmt-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_git_x64-windows-release_ulib-fmt-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_git_x64-windows-release_ulib-fmt-project = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_barkeep_lib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_barkeep_lib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_barkeep_lib = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_barkeep_test = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_barkeep_test = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_barkeep_test = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+re_tool_cxx_compiler_barkeep = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/cl.exe
+re_tool_cxx_linker_barkeep = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/link.exe
+re_tool_cxx_archiver_barkeep = C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/bin/Hostx64/x64/lib.exe
+
+rule cxx_compile_git_x64-windows-release_ulib-project_ulib
+    command = $re_tool_cxx_compiler_git_x64-windows-release_ulib-project_ulib @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_git_x64-windows-release_ulib-project_ulib /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /nologo /showIncludes /Zc:__cplusplus /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_git_x64-windows-release_ulib-project_ulib
+    command = $re_tool_cxx_linker_git_x64-windows-release_ulib-project_ulib @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_git_x64-windows-release_ulib-project_ulib
+    command = $re_tool_cxx_archiver_git_x64-windows-release_ulib-project_ulib @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_git_x64-windows-release_ulib-project
+    command = $re_tool_cxx_compiler_git_x64-windows-release_ulib-project @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_git_x64-windows-release_ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /nologo /showIncludes /Zc:__cplusplus /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_git_x64-windows-release_ulib-project
+    command = $re_tool_cxx_linker_git_x64-windows-release_ulib-project @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_git_x64-windows-release_ulib-project
+    command = $re_tool_cxx_archiver_git_x64-windows-release_ulib-project @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_git_x64-windows-release_fmt
+    command = $re_tool_cxx_compiler_git_x64-windows-release_fmt @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_git_x64-windows-release_fmt /ifcSearchDir $builddir/git.x64-windows-release.fmt /nologo /showIncludes /Zc:__cplusplus /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_git_x64-windows-release_fmt
+    command = $re_tool_cxx_linker_git_x64-windows-release_fmt @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_git_x64-windows-release_fmt
+    command = $re_tool_cxx_archiver_git_x64-windows-release_fmt @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_git_x64-windows-release_ulib-fmt-project_ulib-fmt
+    command = $re_tool_cxx_compiler_git_x64-windows-release_ulib-fmt-project_ulib-fmt @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_git_x64-windows-release_ulib-fmt-project_ulib-fmt /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project.ulib-fmt /ifcSearchDir $builddir/git.x64-windows-release.ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /ifcSearchDir $builddir/git.x64-windows-release.fmt /nologo /showIncludes /Zc:__cplusplus /utf-8 /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_git_x64-windows-release_ulib-fmt-project_ulib-fmt
+    command = $re_tool_cxx_linker_git_x64-windows-release_ulib-fmt-project_ulib-fmt @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_git_x64-windows-release_ulib-fmt-project_ulib-fmt
+    command = $re_tool_cxx_archiver_git_x64-windows-release_ulib-fmt-project_ulib-fmt @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_git_x64-windows-release_ulib-fmt-project
+    command = $re_tool_cxx_compiler_git_x64-windows-release_ulib-fmt-project @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_git_x64-windows-release_ulib-fmt-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project.ulib-fmt /ifcSearchDir $builddir/git.x64-windows-release.ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /ifcSearchDir $builddir/git.x64-windows-release.fmt /nologo /showIncludes /Zc:__cplusplus /utf-8 /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_git_x64-windows-release_ulib-fmt-project
+    command = $re_tool_cxx_linker_git_x64-windows-release_ulib-fmt-project @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_git_x64-windows-release_ulib-fmt-project
+    command = $re_tool_cxx_archiver_git_x64-windows-release_ulib-fmt-project @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_barkeep_lib
+    command = $re_tool_cxx_compiler_barkeep_lib @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_barkeep_lib /ifcSearchDir $builddir/barkeep.lib /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project.ulib-fmt /ifcSearchDir $builddir/git.x64-windows-release.ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /ifcSearchDir $builddir/git.x64-windows-release.fmt /nologo /showIncludes /Zc:__cplusplus /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\barkeep" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_barkeep_lib
+    command = $re_tool_cxx_linker_barkeep_lib @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_barkeep_lib
+    command = $re_tool_cxx_archiver_barkeep_lib @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_compile_barkeep_test
+    command = $re_tool_cxx_compiler_barkeep_test @$out.rsp
+    description = Building C++ source $in
+    rspfile_content = $target_custom_flags /ifcOutput $re_target_object_directory_barkeep_test /ifcSearchDir $builddir/barkeep.test /ifcSearchDir $builddir/barkeep.lib /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-fmt-project.ulib-fmt /ifcSearchDir $builddir/git.x64-windows-release.ulib-project /ifcSearchDir $builddir/git.x64-windows-release.ulib-project.ulib /ifcSearchDir $builddir/git.x64-windows-release.fmt /nologo /showIncludes /Zc:__cplusplus /utf-8 /EHsc /W3 /permissive- /Fd$out.pdb /O2 /Ot /Oi /GS- /GL /Z7 /MD /I "C:\Users\Kenny\re-projects\barkeep\test" /I "C:\Users\Kenny\re-projects\barkeep\barkeep" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.osdeverr_fmt@re-9.1.0-1" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib-fmt@v5.0.5\ulib-fmt" /I "C:\Users\Kenny\re-projects\barkeep\.re-cache\git.github.k2rate_ulib@v5.13.1\ulib" /DNDEBUG=1 /DWIN32=true /DNOMINMAX=true  /c $in /Fo:$out
+    rspfile = $out.rsp
+    deps = msvc
+rule cxx_link_barkeep_test
+    command = $re_tool_cxx_linker_barkeep_test @$out.rsp
+    description = Linking target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+rule cxx_archive_barkeep_test
+    command = $re_tool_cxx_archiver_barkeep_test @$out.rsp
+    description = Archiving target $out
+    rspfile_content = /MACHINE:x64 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\/lib/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/um/x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\/lib/10.0.22621.0\/ucrt/x64" $target_custom_flags  /nologo /ignore:4006 /LTCG /DEBUG "$cxx_artifact_git_x64-windows-release_ulib-project_ulib" "$cxx_artifact_git_x64-windows-release_fmt"  $in /OUT:$out
+    rspfile = $out.rsp
+
+build $builddir/$re_target_object_directory_git_x64-windows-release_ulib-project_ulib/ulib/containers/cstr_debug.cpp.obj: cxx_compile_git_x64-windows-release_ulib-project_ulib $cxx_path_git_x64-windows-release_ulib-project_ulib/ulib/containers/cstr_debug.cpp
+    target_custom_flags =  /std:c++latest
+build $builddir/$re_target_artifact_directory_git_x64-windows-release_ulib-project_ulib/git.x64-windows-release.ulib-project.ulib.lib: cxx_archive_git_x64-windows-release_ulib-project_ulib $builddir/$re_target_object_directory_git_x64-windows-release_ulib-project_ulib/ulib/containers/cstr_debug.cpp.obj  | $cxx_config_path_git_x64-windows-release_ulib-project_ulib
+build git.x64-windows-release.ulib-project.ulib: phony $builddir/$re_target_artifact_directory_git_x64-windows-release_ulib-project_ulib/git.x64-windows-release.ulib-project.ulib.lib
+build $builddir/$re_target_object_directory_git_x64-windows-release_fmt/fmt/format.cc.obj: cxx_compile_git_x64-windows-release_fmt $cxx_path_git_x64-windows-release_fmt/fmt/format.cc
+    target_custom_flags =  /std:c++latest
+build $builddir/$re_target_object_directory_git_x64-windows-release_fmt/fmt/os.cc.obj: cxx_compile_git_x64-windows-release_fmt $cxx_path_git_x64-windows-release_fmt/fmt/os.cc
+    target_custom_flags =  /std:c++latest
+build $builddir/$re_target_artifact_directory_git_x64-windows-release_fmt/git.x64-windows-release.fmt.lib: cxx_archive_git_x64-windows-release_fmt $builddir/$re_target_object_directory_git_x64-windows-release_fmt/fmt/format.cc.obj $builddir/$re_target_object_directory_git_x64-windows-release_fmt/fmt/os.cc.obj  | $cxx_config_path_git_x64-windows-release_fmt
+build git.x64-windows-release.fmt: phony $builddir/$re_target_artifact_directory_git_x64-windows-release_fmt/git.x64-windows-release.fmt.lib
+build $builddir/$re_target_object_directory_barkeep_test/main.cpp.obj: cxx_compile_barkeep_test $cxx_path_barkeep_test/main.cpp
+    target_custom_flags =  /std:c++latest
+build $builddir/$re_target_artifact_directory_barkeep_test/barkeep.test.exe: cxx_link_barkeep_test $builddir/$re_target_object_directory_barkeep_test/main.cpp.obj  | $builddir/$re_target_artifact_directory_git_x64-windows-release_ulib-project_ulib/git.x64-windows-release.ulib-project.ulib.lib $builddir/$re_target_artifact_directory_git_x64-windows-release_fmt/git.x64-windows-release.fmt.lib $cxx_config_path_barkeep_test
+build barkeep.test: phony $builddir/$re_target_artifact_directory_barkeep_test/barkeep.test.exe
+

@@ -32,12 +32,8 @@
 
 #define BARKEEP_VERSION "0.1.3"
 
-#if defined(BARKEEP_ENABLE_FMT_FORMAT)
 #include <fmt/format.h>
 #include <fmt/ostream.h>
-#elif defined(BARKEEP_ENABLE_STD_FORMAT)
-#include <format>
-#endif
 
 namespace barkeep {
 

@@ -1,0 +1,5 @@
+type: static-library
+name: lib
+
+deps:
+  - github:k2rate/ulib-fmt ^5.0.0
